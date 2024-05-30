@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+.div {
+    margin: auto;
+    word-spacing: 10px;
+}
+.icon {
+    font-size: 35px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 5px;
+}
